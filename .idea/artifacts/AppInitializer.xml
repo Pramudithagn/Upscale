@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AppInitializer">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppInitializer</output-path>
+    <root id="root" />
+  </artifact>
+</component>
